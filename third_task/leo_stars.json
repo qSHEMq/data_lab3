@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Солнце 5549",
+    "constellation": "Лев",
+    "spectral-class": "N9B",
+    "radius": 503405483,
+    "rotation": "492.28 days",
+    "age": 1.68,
+    "distance": 1755940.85,
+    "absolute-magnitude": "2.89 million km"
+  },
+  {
+    "name": "Бетельгейзе 7321",
+    "constellation": "Лев",
+    "spectral-class": "U5G",
+    "radius": 44945830,
+    "rotation": "335.23 days",
+    "age": 3.93,
+    "distance": 5122191.86,
+    "absolute-magnitude": "8.64 million km"
+  },
+  {
+    "name": "Альфа Центавра 2329",
+    "constellation": "Лев",
+    "spectral-class": "G7G",
+    "radius": 271254224,
+    "rotation": "926.07 days",
+    "age": 2.4,
+    "distance": 1334685.95,
+    "absolute-magnitude": "2.22 million km"
+  },
+  {
+    "name": "Вега 8731",
+    "constellation": "Лев",
+    "spectral-class": "E1O",
+    "radius": 32634172,
+    "rotation": "939.2 days",
+    "age": 3.47,
+    "distance": 89042.45,
+    "absolute-magnitude": "6.66 million km"
+  },
+  {
+    "name": "Бетельгейзе 8302",
+    "constellation": "Лев",
+    "spectral-class": "M5H",
+    "radius": 171532858,
+    "rotation": "545.17 days",
+    "age": 4.2,
+    "distance": 952955.55,
+    "absolute-magnitude": "9.59 million km"
+  },
+  {
+    "name": "Фомальгаут 8215",
+    "constellation": "Лев",
+    "spectral-class": "P8D",
+    "radius": 332847837,
+    "rotation": "157.16 days",
+    "age": 2.67,
+    "distance": 9451797.63,
+    "absolute-magnitude": "4.92 million km"
+  },
+  {
+    "name": "Бетельгейзе 8008",
+    "constellation": "Лев",
+    "spectral-class": "T0K",
+    "radius": 885968946,
+    "rotation": "6.32 days",
+    "age": 4.02,
+    "distance": 8123085.57,
+    "absolute-magnitude": "3.1 million km"
+  },
+  {
+    "name": "Альфа Центавра 5973",
+    "constellation": "Лев",
+    "spectral-class": "R3S",
+    "radius": 223024539,
+    "rotation": "144.51 days",
+    "age": 5.11,
+    "distance": 7025062.24,
+    "absolute-magnitude": "8.11 million km"
+  },
+  {
+    "name": "Хадар 2247",
+    "constellation": "Лев",
+    "spectral-class": "N9I",
+    "radius": 298711613,
+    "rotation": "306.13 days",
+    "age": 3.19,
+    "distance": 3376587.25,
+    "absolute-magnitude": "7.04 million km"
+  },
+  {
+    "name": "Канопус 3875",
+    "constellation": "Лев",
+    "spectral-class": "M9I",
+    "radius": 443729842,
+    "rotation": "128.81 days",
+    "age": 2.17,
+    "distance": 7490000.2,
+    "absolute-magnitude": "7.45 million km"
+  }
+]
